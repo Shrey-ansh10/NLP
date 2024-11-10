@@ -1,0 +1,4 @@
+Preforming Sentiment analysis using TextBlob and Vader. 
+
+There are 1000 positive and 1000 negative processed sentiment analysis text pieces in the dataset.
+Performing sentiment analysis on those 2000 text files, and calculating the perfomance for both Vader and TextBlob.
